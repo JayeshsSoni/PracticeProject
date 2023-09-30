@@ -7,5 +7,5 @@ b = 96
 print(a+ 5)
 print(100-b)
 print(a+b)
-print(a-b+520)
+print(a-b+560)
 print("jk is my ", 80, "bag" ,2 ,"rs")
